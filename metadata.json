@@ -1,0 +1,6 @@
+{
+  "name": "Saung Pintar Dukuhwaru - Petualangan Siklus Hidup",
+  "description": "Media pembelajaran interaktif IPAS Kelas 3 Bab 4 Siklus Hidup Hewan dan Tumbuhan untuk siswa Saung Pintar Dukuhwaru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
